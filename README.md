@@ -18,7 +18,7 @@ Bem-vindo ao repositório do **Dashboard de Presença Escolar**! Este projeto te
 
 ## 🛠️ Tecnologias Utilizadas
 
-- React.js
+- TypeScript
 - Shadcn UI
 - NextJS
 - Tailwind CSS
